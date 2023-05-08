@@ -1,0 +1,11 @@
+﻿
+
+namespace HMO.Repository
+{
+    public class Producer
+    {
+        
+        public int id { get; set; }
+        public string name { get; set; }
+    }
+}

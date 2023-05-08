@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pokemonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ownedBy">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pokemon_id" Type="int" Nullable="false" />
+    <Property Name="trainer_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="pokemon_details">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="type" Type="nvarchar" MaxLength="50" />
+    <Property Name="height" Type="int" />
+    <Property Name="weight" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="trainer">
+    <Key>
+      <PropertyRef Name="trainer_id" />
+    </Key>
+    <Property Name="trainer_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="trainer_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="trainer_town" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_ownedBy_pokemon_details">
+    <End Role="pokemon_details" Type="Self.pokemon_details" Multiplicity="1" />
+    <End Role="ownedBy" Type="Self.ownedBy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="pokemon_details">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="ownedBy">
+        <PropertyRef Name="pokemon_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ownedBy_trainer">
+    <End Role="trainer" Type="Self.trainer" Multiplicity="1" />
+    <End Role="ownedBy" Type="Self.ownedBy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="trainer">
+        <PropertyRef Name="trainer_id" />
+      </Principal>
+      <Dependent Role="ownedBy">
+        <PropertyRef Name="trainer_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pokemonModelStoreContainer">
+    <EntitySet Name="ownedBy" EntityType="Self.ownedBy" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pokemon_details" EntityType="Self.pokemon_details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="trainer" EntityType="Self.trainer" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ownedBy_pokemon_details" Association="Self.FK_ownedBy_pokemon_details">
+      <End Role="pokemon_details" EntitySet="pokemon_details" />
+      <End Role="ownedBy" EntitySet="ownedBy" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ownedBy_trainer" Association="Self.FK_ownedBy_trainer">
+      <End Role="trainer" EntitySet="trainer" />
+      <End Role="ownedBy" EntitySet="ownedBy" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

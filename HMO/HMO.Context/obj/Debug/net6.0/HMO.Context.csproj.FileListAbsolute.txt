@@ -1,0 +1,34 @@
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.deps.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.runtimeconfig.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\bin\Debug\net6.0\HMO.Repository.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\bin\Debug\net6.0\HMO.Repository.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\refint\HMO.Context.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Context\obj\Debug\net6.0\ref\HMO.Context.dll
+C:\תכנות\Hadasim\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.deps.json
+C:\תכנות\Hadasim\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.runtimeconfig.json
+C:\תכנות\Hadasim\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.dll
+C:\תכנות\Hadasim\HMO\HMO.Context\bin\Debug\net6.0\HMO.Context.pdb
+C:\תכנות\Hadasim\HMO\HMO.Context\bin\Debug\net6.0\HMO.Repository.dll
+C:\תכנות\Hadasim\HMO\HMO.Context\bin\Debug\net6.0\HMO.Repository.pdb
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.csproj.AssemblyReference.cache
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.AssemblyInfoInputs.cache
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.AssemblyInfo.cs
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.csproj.CoreCompileInputs.cache
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.csproj.CopyComplete
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.dll
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\refint\HMO.Context.dll
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.pdb
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\HMO.Context.genruntimeconfig.cache
+C:\תכנות\Hadasim\HMO\HMO.Context\obj\Debug\net6.0\ref\HMO.Context.dll

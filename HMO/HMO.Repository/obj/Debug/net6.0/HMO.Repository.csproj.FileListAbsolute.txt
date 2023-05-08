@@ -1,0 +1,28 @@
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.deps.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.runtimeconfig.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\refint\HMO.Repository.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.Repository\obj\Debug\net6.0\ref\HMO.Repository.dll
+C:\תכנות\Hadasim\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.deps.json
+C:\תכנות\Hadasim\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.runtimeconfig.json
+C:\תכנות\Hadasim\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.dll
+C:\תכנות\Hadasim\HMO\HMO.Repository\bin\Debug\net6.0\HMO.Repository.pdb
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.csproj.AssemblyReference.cache
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.AssemblyInfoInputs.cache
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.AssemblyInfo.cs
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.csproj.CoreCompileInputs.cache
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.dll
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\refint\HMO.Repository.dll
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.pdb
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\HMO.Repository.genruntimeconfig.cache
+C:\תכנות\Hadasim\HMO\HMO.Repository\obj\Debug\net6.0\ref\HMO.Repository.dll

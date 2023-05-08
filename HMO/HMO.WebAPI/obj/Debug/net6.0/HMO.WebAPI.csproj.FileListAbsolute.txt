@@ -1,0 +1,205 @@
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.AssemblyInfoInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.AssemblyInfo.cs
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\appsettings.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.exe
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.deps.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.runtimeconfig.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\EntityFramework.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Common.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Context.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Repository.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Services.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Context.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Services.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Common.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Repository.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\scopedcss\bundle\HMO.WebAPI.styles.css
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\refint\HMO.WebAPI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.pdb
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.genruntimeconfig.cache
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\obj\Debug\net6.0\ref\HMO.WebAPI.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+H:\תכנות שנה ב תשפג\Shevi Sofer\פרויקט גמר\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.exe
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.deps.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.runtimeconfig.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.WebAPI.pdb
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Humanizer.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Common.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Context.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Repository.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Services.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Context.pdb
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Services.pdb
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Common.pdb
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\bin\Debug\net6.0\HMO.Repository.pdb
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.csproj.AssemblyReference.cache
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.AssemblyInfoInputs.cache
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.AssemblyInfo.cs
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.csproj.CoreCompileInputs.cache
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.HMO.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HMO.WebAPI.props
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMO.WebAPI.props
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMO.WebAPI.props
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\scopedcss\bundle\HMO.WebAPI.styles.css
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.csproj.CopyComplete
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\refint\HMO.WebAPI.dll
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.pdb
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\HMO.WebAPI.genruntimeconfig.cache
+C:\תכנות\Hadasim\HMO\HMO.WebAPI\obj\Debug\net6.0\ref\HMO.WebAPI.dll

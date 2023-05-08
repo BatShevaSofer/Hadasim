@@ -50,25 +50,18 @@ namespace HMO.Context.Migrations
                     b.Property<DateTime>("date_vaccination")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("identity")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("personalDetaileid")
+                    b.Property<string>("identityid")
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<int>("producer")
-                        .HasColumnType("int");
-
-                    b.Property<int>("producer1id")
+                    b.Property<int>("producerid")
                         .HasColumnType("int");
 
                     b.HasKey("id");
 
-                    b.HasIndex("personalDetaileid");
+                    b.HasIndex("identityid");
 
-                    b.HasIndex("producer1id");
+                    b.HasIndex("producerid");
 
                     b.ToTable("Vaccination");
                 });
@@ -78,10 +71,7 @@ namespace HMO.Context.Migrations
                     b.Property<string>("id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<int>("City1id")
-                        .HasColumnType("int");
-
-                    b.Property<int>("city")
+                    b.Property<int>("cityid")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("end_ill")
@@ -114,7 +104,7 @@ namespace HMO.Context.Migrations
 
                     b.HasKey("id");
 
-                    b.HasIndex("City1id");
+                    b.HasIndex("cityid");
 
                     b.ToTable("PersonalDetailes");
                 });
@@ -138,32 +128,32 @@ namespace HMO.Context.Migrations
 
             modelBuilder.Entity("HMO.Repository.Entities.Vaccination", b =>
                 {
-                    b.HasOne("HMO.Repository.PersonalDetailes", "personalDetaile")
+                    b.HasOne("HMO.Repository.PersonalDetailes", "identity")
                         .WithMany()
-                        .HasForeignKey("personalDetaileid")
+                        .HasForeignKey("identityid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("HMO.Repository.Producer", "producer1")
+                    b.HasOne("HMO.Repository.Producer", "producer")
                         .WithMany()
-                        .HasForeignKey("producer1id")
+                        .HasForeignKey("producerid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("personalDetaile");
+                    b.Navigation("identity");
 
-                    b.Navigation("producer1");
+                    b.Navigation("producer");
                 });
 
             modelBuilder.Entity("HMO.Repository.PersonalDetailes", b =>
                 {
-                    b.HasOne("HMO.Repository.City", "City1")
+                    b.HasOne("HMO.Repository.City", "city")
                         .WithMany()
-                        .HasForeignKey("City1id")
+                        .HasForeignKey("cityid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("City1");
+                    b.Navigation("city");
                 });
 #pragma warning restore 612, 618
         }

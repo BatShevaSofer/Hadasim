@@ -10,7 +10,7 @@ namespace HMO.Repository
     {
         public string id { get; set; }
         public string name { get; set; }
-        public int city { get; set; }
+        public City city { get; set; }
         public string street { get; set; }
         public int house_number { get; set; }
         public string telephon { get; set; }
@@ -19,6 +19,5 @@ namespace HMO.Repository
         public DateTime start_ill { get; set; }
         public DateTime end_ill { get; set; }
 
-        public City City1 { get; set; }
     }
 }

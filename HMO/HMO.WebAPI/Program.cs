@@ -22,7 +22,7 @@ builder.Services.AddServices();
 
 builder.Services.AddDbContext<IContext, DataContext>(options =>
 { 
-    //options.UseSqlServer("name=ConnectionStrings:HMODB");
+    options.UseSqlServer("name=ConnectionStrings:HMODB");
     //options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 });
 

@@ -80,6 +80,10 @@ namespace HMO.Context.Migrations
                     b.Property<int>("house_number")
                         .HasColumnType("int");
 
+                    b.Property<string>("imageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

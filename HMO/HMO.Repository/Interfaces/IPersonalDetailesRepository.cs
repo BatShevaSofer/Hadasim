@@ -9,9 +9,9 @@ namespace HMO.Repository.Interfaces
     public interface IPersonalDetailesRepository
     {
         Task<List<PersonalDetailes>> GetAllAsync();
-        Task<PersonalDetailes> GetByIdAsync(int id);
+        Task<PersonalDetailes> GetByIdAsync(string id);
         Task<PersonalDetailes> AddAsync(PersonalDetailes PersonalDetailes);
         Task<PersonalDetailes> UpdateAsync(PersonalDetailes PersonalDetailes);
-        Task DeleteByIdAsync(int id);
+        Task DeleteByIdAsync(string id);
     }
 }

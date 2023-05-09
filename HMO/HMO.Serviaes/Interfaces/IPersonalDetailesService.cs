@@ -10,9 +10,9 @@ namespace HMO.Services.Interfaces
     public interface IPersonalDetailesService
     {
         Task<List<PersonalDetailesDTO>> GetAllAsync();
-        Task<PersonalDetailesDTO> GetByIdAsync(int id);
+        Task<PersonalDetailesDTO> GetByIdAsync(string id);
         Task<PersonalDetailesDTO> AddAsync(PersonalDetailesDTO PersonalDetailes);
         Task<PersonalDetailesDTO> UpdateAsync(PersonalDetailesDTO PersonalDetailes);
-        Task DeleteByIdAsync(int id);
+        Task DeleteByIdAsync(string id);
     }
 }

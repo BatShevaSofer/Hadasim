@@ -22,7 +22,7 @@ namespace HMO.Repository.Repositories
             return addedPersonalDetailes.Entity;
         }
 
-        public async Task DeleteByIdAsync(int id)
+        public async Task DeleteByIdAsync(string id)
         {
             var PersonalDetailes = await GetByIdAsync(id);
             _context.PersonalDetailes.Remove(PersonalDetailes);
@@ -34,7 +34,7 @@ namespace HMO.Repository.Repositories
             return await _context.PersonalDetailes.ToListAsync();
         }
 
-        public async Task<PersonalDetailes> GetByIdAsync(int id)
+        public async Task<PersonalDetailes> GetByIdAsync(string id)
         {
             return await _context.PersonalDetailes.FindAsync(id);
         }

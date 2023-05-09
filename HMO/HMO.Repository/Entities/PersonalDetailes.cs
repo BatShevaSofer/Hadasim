@@ -18,6 +18,6 @@ namespace HMO.Repository
         public int vaccination_number { get; set; }
         public DateTime start_ill { get; set; }
         public DateTime end_ill { get; set; }
-
+        public string imageUrl { get; set; }
     }
 }

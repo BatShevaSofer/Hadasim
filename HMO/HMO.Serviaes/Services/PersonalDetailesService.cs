@@ -25,7 +25,7 @@ namespace HMO.Services.Services
             return _mapper.Map<PersonalDetailesDTO>(await _PersonalDetailesRepository.AddAsync(_mapper.Map<PersonalDetailes>(PersonalDetailes1)));
         }
 
-        public async Task DeleteByIdAsync(int id)
+        public async Task DeleteByIdAsync(string id)
         {
             await _PersonalDetailesRepository.DeleteByIdAsync(id);
         }
@@ -35,7 +35,7 @@ namespace HMO.Services.Services
             return _mapper.Map<List<PersonalDetailesDTO>>(await _PersonalDetailesRepository.GetAllAsync());
         }
 
-        public async Task<PersonalDetailesDTO> GetByIdAsync(int id)
+        public async Task<PersonalDetailesDTO> GetByIdAsync(string id)
         {
             return _mapper.Map<PersonalDetailesDTO>(await _PersonalDetailesRepository.GetByIdAsync(id));
 

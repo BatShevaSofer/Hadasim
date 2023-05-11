@@ -13,5 +13,6 @@ namespace HMO.Repository.Interfaces
         Task<PersonalDetailes> AddAsync(PersonalDetailes PersonalDetailes);
         Task<PersonalDetailes> UpdateAsync(PersonalDetailes PersonalDetailes);
         Task DeleteByIdAsync(string id);
+        Task<List<PersonalDetailes>> GetByMonth();
     }
 }

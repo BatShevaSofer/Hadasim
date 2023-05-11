@@ -45,5 +45,11 @@ namespace HMO.Repository.Repositories
             await _context.SaveChangesAsync();
             return updatedPersonalDetailes.Entity; ;
         }
+        public async Task<List<PersonalDetailes>> GetByMonth()
+        {
+            return await _context.PersonalDetailes.Where(x => x.start_ill.Month == DateTime.Now.Month && x.start_ill.Year == DateTime.Now.Year).ToListAsync();
+        }
+
+        
     }
 }

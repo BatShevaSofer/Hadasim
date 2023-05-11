@@ -46,5 +46,11 @@ namespace HMO.Services.Services
             return _mapper.Map<PersonalDetailesDTO>(await _PersonalDetailesRepository.UpdateAsync(_mapper.Map<PersonalDetailes>(PersonalDetailes1)));
 
         }
+        public async Task<List<PersonalDetailesDTO>> GetByMonth()
+        {
+            return _mapper.Map<List<PersonalDetailesDTO>>(await _PersonalDetailesRepository.GetByMonth());
+
+        }
+
     }
 }

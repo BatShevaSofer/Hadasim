@@ -14,7 +14,6 @@ namespace HMO.Context
     {
 
         
-        public DbSet<City> City { get; set; }
 
         public DbSet<PersonalDetailes> PersonalDetailes { get; set; }
 

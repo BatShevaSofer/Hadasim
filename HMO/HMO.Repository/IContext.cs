@@ -12,7 +12,7 @@ namespace HMO.Repository
     {
         DbSet<PersonalDetailes> PersonalDetailes { get; set; }
 
-        DbSet<City> City { get; set; }
+        
 
         DbSet<Producer> Producer { get; set; }
         DbSet<Vaccination> Vaccination { get; set; }

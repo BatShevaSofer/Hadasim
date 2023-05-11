@@ -10,9 +10,10 @@ namespace HMO.Repository.Entities
     {
 
         public int id { get; set; }
-        public PersonalDetailes identity { get; set; }
+        public virtual ICollection<PersonalDetailes> identity { get; set; }
+      
         public DateTime date_vaccination { get; set; }
-        public Producer producer { get; set; }
+        public virtual ICollection<Producer> producer { get; set; }
 
     }
 }

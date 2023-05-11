@@ -11,12 +11,13 @@ const cities = [
 ]
 
 const Row = (props) => {
-    const {id, name, cityid, street, house_number, telephon, pelephon, vaccination_number,start_ill, end_ill} = props
+    const {id, name, city, street, house_number, telephon, pelephon, vaccination_number,start_ill, end_ill} = props
+    const urlImg = "https://localhost:7236/api/Values/"
     return(
         <tr>
             <td className='text-left'>{id}</td>
             <td className='text-left'>{name}</td>
-            <td className='text-left'>{cityid}</td>
+            <td className='text-left'>{city}</td>
             <td className='text-left'>{street}</td>
             <td className='text-left'>{house_number}</td>
             <td className='text-left'>{telephon}</td>
@@ -25,7 +26,7 @@ const Row = (props) => {
             <td className='text-left'>{start_ill}</td>
             <td className='text-left'>{end_ill}</td>
             <td className='text-left ' >
-                <img src={background} style={{width: '100%', height: 'auto'}}/>
+                <img src={urlImg + id} style={{width: '100%', height: 'auto'}}/>
             </td>
         </tr>
     )
@@ -38,7 +39,7 @@ const Table = (props) => {
                 {data.map(row =>
                     <Row id = {row.id} 
                          name = {row.name} 
-                         cityid = {row.cityid} 
+                         city = {row.city} 
                          street = {row.street}
                          house_number = {row.house_number}
                          telephon = {row.telephon}
@@ -66,7 +67,7 @@ function PersonalDetailes(props)
                     <tr>
                         <th className="text-left">id</th>
                         <th className="text-left">name</th>
-                        <th className="text-left">cityid</th>
+                        <th className="text-left">city</th>
                         <th className="text-left">street</th>
                         <th className="text-left">house_number</th>
                         <th className="text-left">telephon</th>

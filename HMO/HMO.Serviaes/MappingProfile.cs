@@ -15,7 +15,6 @@ namespace HMO.Services
         public MappingProfile()
         {
 
-            CreateMap<CityDTO, City>().ReverseMap();//to copy every class
             CreateMap<PersonalDetailesDTO, PersonalDetailes>().ReverseMap();
             CreateMap<ProducerDTO, Producer>().ReverseMap();
             CreateMap<VaccinationDTO, Vaccination>().ReverseMap();

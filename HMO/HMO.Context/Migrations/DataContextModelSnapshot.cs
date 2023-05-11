@@ -22,23 +22,6 @@ namespace HMO.Context.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("HMO.Repository.City", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
-
-                    b.Property<string>("city_name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id");
-
-                    b.ToTable("City");
-                });
-
             modelBuilder.Entity("HMO.Repository.Entities.Vaccination", b =>
                 {
                     b.Property<int>("id")
@@ -50,18 +33,7 @@ namespace HMO.Context.Migrations
                     b.Property<DateTime>("date_vaccination")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("identityid")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("producerid")
-                        .HasColumnType("int");
-
                     b.HasKey("id");
-
-                    b.HasIndex("identityid");
-
-                    b.HasIndex("producerid");
 
                     b.ToTable("Vaccination");
                 });
@@ -71,8 +43,12 @@ namespace HMO.Context.Migrations
                     b.Property<string>("id")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<int>("cityid")
+                    b.Property<int?>("Vaccinationid")
                         .HasColumnType("int");
+
+                    b.Property<string>("city")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("end_ill")
                         .HasColumnType("datetime2");
@@ -108,7 +84,7 @@ namespace HMO.Context.Migrations
 
                     b.HasKey("id");
 
-                    b.HasIndex("cityid");
+                    b.HasIndex("Vaccinationid");
 
                     b.ToTable("PersonalDetailes");
                 });
@@ -121,43 +97,39 @@ namespace HMO.Context.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
 
+                    b.Property<int?>("Vaccinationid")
+                        .HasColumnType("int");
+
                     b.Property<string>("name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");
 
+                    b.HasIndex("Vaccinationid");
+
                     b.ToTable("Producer");
-                });
-
-            modelBuilder.Entity("HMO.Repository.Entities.Vaccination", b =>
-                {
-                    b.HasOne("HMO.Repository.PersonalDetailes", "identity")
-                        .WithMany()
-                        .HasForeignKey("identityid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("HMO.Repository.Producer", "producer")
-                        .WithMany()
-                        .HasForeignKey("producerid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("identity");
-
-                    b.Navigation("producer");
                 });
 
             modelBuilder.Entity("HMO.Repository.PersonalDetailes", b =>
                 {
-                    b.HasOne("HMO.Repository.City", "city")
-                        .WithMany()
-                        .HasForeignKey("cityid")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.HasOne("HMO.Repository.Entities.Vaccination", null)
+                        .WithMany("identity")
+                        .HasForeignKey("Vaccinationid");
+                });
 
-                    b.Navigation("city");
+            modelBuilder.Entity("HMO.Repository.Producer", b =>
+                {
+                    b.HasOne("HMO.Repository.Entities.Vaccination", null)
+                        .WithMany("producer")
+                        .HasForeignKey("Vaccinationid");
+                });
+
+            modelBuilder.Entity("HMO.Repository.Entities.Vaccination", b =>
+                {
+                    b.Navigation("identity");
+
+                    b.Navigation("producer");
                 });
 #pragma warning restore 612, 618
         }

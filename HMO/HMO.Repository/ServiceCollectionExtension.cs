@@ -13,7 +13,7 @@ namespace HMO.Repository
     {
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
-            services.AddScoped<ICityRepository, CityRepository>();
+            
 
             services.AddScoped<IProducerRepository, ProducerRepository>();
             services.AddScoped<IVaccinationRepository, VaccinationRepository>();

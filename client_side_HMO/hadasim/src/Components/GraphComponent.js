@@ -1,68 +1,57 @@
-import React, { useState, useEffect } from "react";
-import { Chart, Line, plugins } from "react-chartjs-2";
+import React from "react";
+import { useState  } from "react";
 
-const Graph = ({ people }) => {
-  const [data, setData] = useState([
-    {
-      x: "",
-      y: 0,
-    },
-  ]);
-
-  useEffect(() => {
-    const ovulationDates = people.map(person => person.ovulationDate);
-    const recoveryDates = people.map(person => person.recoveryDate);
-
-    for (let i = 0; i < ovulationDates.length; i++) {
-      const ovulationDate = ovulationDates[i];
-      const recoveryDate = recoveryDates[i];
-
-      if (ovulationDate && recoveryDate) {
-        const days = Math.floor((recoveryDate - ovulationDate) / (1000 * 60 * 60 * 24));
-
-        setData([
-          ...data,
-          {
-            x: ovulationDate,
-            y: days,
-          },
-        ]);
-      }
+import LineCart from "./LineChartComponent";
+import axios from 'axios'
+async function GetPersonalDetailes() {
+    try {
+      const response = await axios.get("https://localhost:7236/api/PersonalDetailes");
+      return response.data;
+    } catch (err) {
+      console.log(err);
+      throw new Error("Failed to fetch personal details");
     }
-  }, [people]);
+  }
 
-  return (
-    <div>
-      <Chart
-        data={data}
-        options={{
-          scales: {
-            x: {
-              type: "category",
-              ticks: {
-                autoSkip: true,
-              },
-            },
-            y: {
-              type: "linear",
-              position: "left",
-              min: 0,
-              max: 100,
-            },
-          },
-          plugins: {
-            tooltip: {
-              enabled: true,
-            },
-          },
-        }}
-      >
-        <Line
-          dataKey="y"
-        />
-      </Chart>
-    </div>
-  );
-};
+  function colNum(userData, days)
+  {
+      for(let i=0;i<userData.length;i++)
+      {
+          
+          const start = Date(i.start_ill);
+          const end = Date(i.end_ill);
+          if(start.month != Date.now.month && end.month != Date.now.month)
+              break;
+          if(end.month == Date.now.month && start.month != Date.now.month)//קודם את הסוף ואח"כ את ההתחלה
+          {
+              start.month = Date.now.month;
+              start.day = 1;
+          }    
+          while(end.month == Date.now.month && start <= end)
+          {
+              days[start.day+1] += 1;
+              start.day += 1;
+          }
+      }
+  }
+
+function Graph()
+{
+    let days = new Array(31).fill(0);
+    const userData  = GetPersonalDetailes();
+    colNum(userData, days);
+    const posts = days;
+    const [userDataChart, setUaerDataChart] = useState({
+      labels: days.map((data) => data),
+      datasets: [{
+        label:"Users sick",
+        data: posts.map((data) => data.numIll),
+      }]
+    })
+    return(
+        <LineCart  props = {userDataChart} />
+    )
+}
+
 
 export default Graph;

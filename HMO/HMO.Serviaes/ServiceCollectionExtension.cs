@@ -15,7 +15,7 @@ namespace HMO.Services
         public static IServiceCollection AddServices(this IServiceCollection services)
         {
             services.AddRepositories();
-            services.AddScoped<ICityService, CityService>();
+           
             services.AddScoped<IProducerService, ProducerService>();
 
             services.AddScoped<IPersonalDetailesService, PersonalDetailesService>();

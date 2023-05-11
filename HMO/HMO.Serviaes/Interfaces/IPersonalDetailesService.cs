@@ -14,5 +14,6 @@ namespace HMO.Services.Interfaces
         Task<PersonalDetailesDTO> AddAsync(PersonalDetailesDTO PersonalDetailes);
         Task<PersonalDetailesDTO> UpdateAsync(PersonalDetailesDTO PersonalDetailes);
         Task DeleteByIdAsync(string id);
+        Task<List<PersonalDetailesDTO>> GetByMonth();
     }
 }

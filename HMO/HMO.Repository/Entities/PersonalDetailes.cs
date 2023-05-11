@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +11,7 @@ namespace HMO.Repository
     {
         public string id { get; set; }
         public string name { get; set; }
-        public City city { get; set; }
+        public string city { get; set; }
         public string street { get; set; }
         public int house_number { get; set; }
         public string telephon { get; set; }
@@ -18,6 +19,8 @@ namespace HMO.Repository
         public int vaccination_number { get; set; }
         public DateTime start_ill { get; set; }
         public DateTime end_ill { get; set; }
-        public string imageUrl { get; set; }
+        
+
+        
     }
 }
